@@ -1,0 +1,8 @@
+.ant-dropdown-trigger > .anticon.anticon-down, .ant-dropdown-link > .anticon.anticon-down, .ant-dropdown-button > .anticon.anticon-down{
+    font-size: 15px;
+}
+
+.operating_hours_data{
+    display: inherit;
+    padding: 20px;
+  }

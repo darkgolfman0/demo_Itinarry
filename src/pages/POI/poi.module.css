@@ -1,0 +1,23 @@
+
+/* 
+.ant_btn_add {
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+    -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+} */
+
+.operating_hours_data{
+  display: inherit;
+  padding: 20px;
+}
+
+.radioStyle{
+  display: block;
+  height: 30px;
+  line-height: 30px;
+}
+
+/* .ant-card-body{
+  color: #434343;
+} */

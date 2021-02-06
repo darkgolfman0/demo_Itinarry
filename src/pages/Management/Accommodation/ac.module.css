@@ -1,0 +1,10 @@
+.operating_hours_data{
+    display: inherit;
+    padding: 20px;
+  }
+  
+  .radioStyle{
+    display: block;
+    height: 30px;
+    line-height: 30px;
+  }
